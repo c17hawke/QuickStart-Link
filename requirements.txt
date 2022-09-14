@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+pandas
+seaborn
+mrx-link==0.8.2
